@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+data/cifar-10-python.tar.gz
+icv83551/datasets/coco_captioning/train2014_vgg16_fc7.h5
+icv83551/datasets/coco_captioning/val2014_vgg16_fc7.h5
+icv83551/datasets/coco_captioning/train2014_vgg16_fc7_pca.h5
+icv83551/datasets/coco_captioning/val2014_vgg16_fc7_pca.h5
+pretrained_model/*.pth
